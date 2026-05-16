@@ -18,15 +18,15 @@ Workplace sentiment and background qualifications are captured via survey metric
 *
 
 ## Data Preprocessing
-
+*
 
 ## Machine Learning Algorithms used
 *
 
 ## Model Evaluation
-
+*
 ## Business Recommendations
-
+*
 ## Conclusion
 
 ## References and Links
