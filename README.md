@@ -1,4 +1,4 @@
-# IBM-HR-Project
+# IBM HR Project
 <img width="1241" height="679" alt="Gemini_Generated_Image_rmu8g7rmu8g7rmu8" src="https://github.com/user-attachments/assets/f92a173f-14ef-4ef5-85da-b16f871cb305" />
 
 
@@ -32,3 +32,4 @@ Workplace sentiment and background qualifications are captured via survey metric
 ## Conclusion
 
 ## References and Links
+* Kaggle Dataset : 
