@@ -17,7 +17,14 @@ Workplace sentiment and background qualifications are captured via survey metric
 * Build a model to identify if any employee is about to leave the organization.
 
 ## EDA(Elaborative Data Analysis) methods and results
-*
+* Univariate Analysis
+Attrition (Target): Highly imbalanced; $83.88\%$ of employees stay while $16.12\%$ leave.Age: Near-normal distribution centered around a mean of $\approx 37$ years, with the majority aged between $30$ and $43$.Department: Heavily skewed toward technical roles—$65.37\%$ in Research & Development, $30.34\%$ in Sales, and $4.29\%$ in Human Resources.Gender: $60.0\%$ Male and $40.0\%$ Female.Overtime: $28.30\%$ of the workforce regularly works overtime.Job Roles: Sales Executives, Research Scientists, and Laboratory Technicians are the top three roles, making up over $59\%$ of the company.
+* Bivariate Analysis
+Monthly Income vs. Attrition: Employees who leave the company have a significantly lower median monthly income compared to those who stay. Low compensation is a strong potential driver of attrition.
+Overtime vs. Attrition: Working overtime heavily correlates with leaving. The proportion of employees who exit is drastically higher among those who work overtime compared to those who do not.
+Job Satisfaction vs. Attrition: There is a clear inverse relationship. As job satisfaction scores drop (specifically at level 1), the proportion of attrition noticeably spikes, whereas highly satisfied employees (level 4) are much more likely to stay.
+* Multivariate Analysis
+
 
 ## Data Preprocessing
 *
