@@ -1,5 +1,6 @@
 # IBM HR Project
-<img width="1241" height="679" alt="Gemini_Generated_Image_rmu8g7rmu8g7rmu8" src="https://github.com/user-attachments/assets/f92a173f-14ef-4ef5-85da-b16f871cb305" />
+<img width="1241" height="330" alt="Gemini_Generated_Image_rmu8g7rmu8g7rmu8" src="https://github.com/user-attachments/assets/2bfd3198-be7a-425b-8f2e-e32fbf73b1fb" />
+
 
 
 ## This projects is all about finding the attrition pattern in the company.
@@ -39,4 +40,4 @@ Job Satisfaction vs. Attrition: There is a clear inverse relationship. As job sa
 ## Conclusion
 
 ## References and Links
-* Kaggle Dataset : 
+* Kaggle Dataset : https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
